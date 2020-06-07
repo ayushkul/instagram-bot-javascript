@@ -7,3 +7,5 @@
 5. Press Enter and Boom -> Your automated BOT for following people is with you !
 
 ### Give this repository a Star ❤️
+
+![](insta-js-bot.gif)
