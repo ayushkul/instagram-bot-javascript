@@ -9,5 +9,6 @@
         const nextButton = buttons[i];
         nextButton.click();
         i ++;
-    }, 500)
-})()
+    }, 1000);
+    console.log("intervalID => ",followInterval);
+})();
